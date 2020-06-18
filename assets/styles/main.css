@@ -1,0 +1,41 @@
+#main {
+    height: 100vh;
+    background: #291D51;
+}
+
+.contianer {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    width:32%;
+    height: 3rem;
+    text-align: left;
+    box-shadow: 5px 10px #333;
+}
+
+.card__image {
+    height: 12rem;
+    border-radius: 0.2rem 0.2rem 0 0;
+    background: #ccc;
+}
+
+.card__text {
+    height: 5rem;
+    border-radius: 0 0 0.2rem 0.2rem;
+    padding: 1rem;
+    background: #fff;
+}
+
+.card__text-title {
+    padding-bottom: 2px;
+    color: #6c77f4;
+}
+
+.card__text-desc {
+    color: #666;
+    font-size: 14px;
+}
