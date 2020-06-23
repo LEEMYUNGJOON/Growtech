@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+<<<<<<< HEAD
 }
 
 li {
@@ -9,5 +10,7 @@ li {
 }
 
 a {
+=======
+>>>>>>> b43dfa89946736c389498df1fc48716fbda279be
     text-decoration: none;
 }
