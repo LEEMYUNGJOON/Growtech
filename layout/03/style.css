@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main-header{
+    height: 5rem;
+    background: #333;
+}
+
+.hero {
+    height: 60rem;
+    background: red;
+}
+
+.contents {
+    height: 60rem;
+    background: green;
+    padding-top: 10rem;
+}
+
+.container {
+    max-width: 80rem;
+    margin: 0 auto;
+}
+
+.content {
+    height: 40rem;
+    background: blue;
+}
+
+#main-footer {
+    height: 5rem;
+    background: #999;
+}
+
+.text {
+    height: 5rem;
+    background: blue;
+}
